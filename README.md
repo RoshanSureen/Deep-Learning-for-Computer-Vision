@@ -4,7 +4,7 @@ This repository contains six assigmnets of the course EECS 498-007 / 598-005 –
 
 ### link: **[EECS 498-007 / 598-005 – Fall 2020](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/)** <– Click here
 
-Each assignment has a `.py` complimentary file that contains the solutions to the assignment. The `.ipynb` files perform general setup of the environment, data preprocessing etc. Open first the `.ipynb` first and side by side the corresponding `.py` file
+Each assignment has a `.py` complimentary file that contains code that we use and reuse. The `.ipynb` files perform general setup of the development environment. Open first the `.ipynb` first and side by side the corresponding `.py` file
 
 ---
 
